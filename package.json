@@ -1,0 +1,18 @@
+{
+  "name": "webpage-register",
+  "version": "1.0.0",
+  "description": "Webpage Register Contract",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvaro Arevalo Toro",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "truffle-hdwallet-provider": "^1.0.3"
+  }
+}
